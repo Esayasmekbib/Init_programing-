@@ -15,7 +15,7 @@ The concept of the text is not a stable one. It is always changing as the techno
 ### Example  
 " Texts can no longer be thought of as relatively fixed and stable. They are more fluid with the changing affordances of new media. In addition, they are becoming increasingly multimodal and interactive. Links between texts are complex online, and intertextuality is common in online texts as people draw upon and play with other texts available on the web."
 An example of such intertextuality can be found in any popular news story. An article in The New York Times, for example, may contain embedded tweets from Twitter, links to outside articles, or links to primary sources such as press releases or other documents. With a text such as this, it is sometimes difficult to describe what exactly is part of the text and what is not. An embedded tweet, for instance, may be essential to understanding the text around it—and therefore part of the text itself—but it is also its own independent text. On social media sites such as Facebook and Twitter, as well as blogs and Wikipedia, it is common to find such relationships between texts.
-##What is calcultor
+## What is calcultor
 A calculator is a device that performs arithmetic operations on numbers. Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations.
 
 However, more sophisticated calculators can handle exponential operations, square roots, logarithms, trigonometric functions and hyperbolic functions. Internally, some calculators perform all these functions by repeated addition processes.
@@ -29,3 +29,12 @@ A movable, transparent sleeve called the cursor was used to align numerals on th
 One of the most primitive calculators, the abacus, is still used in some regions of the Far East. The abacus acts as an adding machine that uses groups of beads to denote numbers.
 
 Like the slide rule, the abacus requires no source of power. The beads are positioned in several parallel rows and can be moved up and down to denote arithmetic operations. It is said that a skilled abacus user can do some calculations just as fast as a person equipped with a battery-powered calculator.
+# computer storage
+Data storage is the collective methods and technologies that capture and retain digital information on electromagnetic, optical or silicon-based storage media. Storage is used in offices, data centers, edge environments, remote locations and people's homes. Storage is also an important component in mobile devices such as smartphones and tablets. Consumers and businesses rely on storage to preserve information ranging from personal photos to business-critical data.
+ 
+ Storage is frequently used to describe devices that connect to a computer -- either directly or over a network -- and that support the transfer of data through input/output (I/O) operations. Storage devices can include hard disk drives (HDDs), flash-based solid-state drives (SSDs), optical disc drives, tape systems and other media types.
+ 
+ Why data storage is important
+With the advent of big data, advanced analytics and the profusion of internet of things (IoT) devices, storage is more important than ever to handle the growing amounts of data. Modern storage systems must also support the use of artificial intelligence (AI), machine leaning and other AI technologies to analyze all this data and derive its maximum value.
+
+Today's sophisticated applications, real-time database analytics and high-performance computing also require highly dense and scalable storage systems, whether they take the form of storage area networks (SANs), scale-out and scale-up network-attached storage (NAS), object storage platforms, or converged, hyper-converged or composable infrastructure.
